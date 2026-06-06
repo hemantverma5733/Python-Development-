@@ -99,3 +99,6 @@ Here is a quick cheat sheet for day-to-day work in this repository:
 ## 📈 Learning Log & Progress
 - **Day 1:** Cleaned up repository structure and connected to GitHub. 🚀
 - **Topic 01 Complete:** Added the interactive `variables_demo.py` and conceptual guide for Variables and Data Types. 🐍
+- **Day 2:** Explored Operators (Arithmetic, Comparison, Logical, Assignment) and User Input with Type Casting. 🚀
+- **Topic 02 Complete:** Added interactive `operators_demo.py` and line-by-line concept guide. 🐍
+
